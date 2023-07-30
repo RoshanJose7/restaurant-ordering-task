@@ -1,12 +1,24 @@
-# Expo Router Example
+# Restaurant Ordering App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+## 📝 Description
+
+Restaurant Ordering App is a mobile application that allows users to order food from a restaurant. The app is built using React Native and Expo.
 
 ## 🚀 How to use
 
+1. Install the dependencies
+
 ```sh
-npx create-expo-app -e with-router
+npm install
 ```
+
+2. Run the app
+
+```sh
+npm start
+```
+
+3. Follow the instructions in the terminal to open the app on your phone or using an emulator.
 
 ## 📝 Notes
 
